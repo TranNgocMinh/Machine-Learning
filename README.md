@@ -10,5 +10,5 @@
 <li><a href="https://www.codeproject.com/Articles/1268051/Introducing-the-ML-NET-A-Machine-Learning-Library">Introducing the ML.NET — A Machine Learning Library for .NET Developers</a></li>
 <li><a href="https://www.codeproject.com/Articles/1278872/Infer-NET-A-Library-for-People-Who-Love-Probabilit">Infer.NET — A Library for People Who Love Probability</a> | <a href="https://github.com/TranNgocMinh/Machine-Learning/tree/master/ConsoleApp1">Code</a></li>
 <li><a href="https://github.com/TranNgocMinh/TensorFlow">An introduction to the TensorFlow</a></li>
-li><a href="https://www.codeproject.com/Articles/3132569/Notes-on-ML-and-TensorFlow-Linear-Regression">Linear Regression</a></li>
+<li><a href="https://www.codeproject.com/Articles/3132569/Notes-on-ML-and-TensorFlow-Linear-Regression">Linear Regression</a></li>
 </ol>
